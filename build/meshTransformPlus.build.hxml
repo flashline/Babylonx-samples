@@ -1,0 +1,6 @@
+-cp ../src/
+-cp ../../classes/flnet/
+-cp ../../classes/Babylon-X/
+-js ../bin/js/meshTransformPlus.js
+-main MeshTransformPlus
+--js-modern

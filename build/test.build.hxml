@@ -1,0 +1,5 @@
+-cp ../src/
+-cp ../../classes/Babylon-X/
+-js ../bin/js/test.js
+-main Test
+--js-modern
